@@ -1,0 +1,45 @@
+            .piros {
+                color: red;
+            }
+            
+            table {
+                border: 2px solid gray;
+                border-radius: 3px;
+                color: rgb(55, 64, 189);
+                text-align: center;
+                margin: auto;
+            }
+            
+            td {
+                width: 100px;
+                height: 70px;
+                background-color: rgb(70, 128, 255);
+                border-radius: 3px;
+                box-shadow: 3px 3px white;
+                border: 1px solid black;
+                text-decoration: none;
+            }
+            
+            th {
+                width: 100px;
+                height: 70px;
+                background-color: rgb(52, 106, 224);
+                border-radius: 3px;
+                box-shadow: 3px 3px white;
+                border: 1px solid black;
+            }
+            
+            .eoszlop {
+                background-color: rgb(47, 99, 241);
+                color: rgb(8, 21, 189);
+                text-align: left;
+            }
+            
+            .szurke {
+                background-color: rgba(180, 175, 175, 0.979);
+            }
+            
+            img {
+                width: 100px;
+                height: 70px;
+            }
