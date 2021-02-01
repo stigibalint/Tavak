@@ -3,8 +3,8 @@
             }
             
             table {
-                border: 2px solid gray;
-                border-radius: 3px;
+                border: 3px solid gray;
+                border-radius: 5px;
                 color: rgb(55, 64, 189);
                 text-align: center;
                 margin: auto;
@@ -13,9 +13,9 @@
             td {
                 width: 100px;
                 height: 70px;
-                background-color: rgb(70, 128, 255);
-                border-radius: 3px;
-                box-shadow: 3px 3px white;
+                background-color: rgb(160, 189, 250);
+                border-radius: 5px;
+                box-shadow: 3px 3px rgb(16, 55, 184);
                 border: 1px solid black;
                 text-decoration: none;
             }
@@ -23,15 +23,17 @@
             th {
                 width: 100px;
                 height: 70px;
-                background-color: rgb(52, 106, 224);
-                border-radius: 3px;
+                background-color: rgb(116, 103, 238);
+                border-radius: 5px;
                 box-shadow: 3px 3px white;
                 border: 1px solid black;
+                box-shadow: 3px 3px rgb(16, 55, 184);
+                color: midnightblue;
             }
             
             .eoszlop {
-                background-color: rgb(47, 99, 241);
-                color: rgb(8, 21, 189);
+                background-color: rgb(162, 153, 241);
+                color: rgb(6, 32, 180);
                 text-align: left;
             }
             
@@ -40,6 +42,17 @@
             }
             
             img {
-                width: 100px;
-                height: 70px;
+                width: 100%;
+                height: 100%;
+                border-radius: 5px;
+                border: 1px solid black;
+            }
+            
+            .div1 {
+                width: 20px;
+                height: 20px;
+            }
+            
+            #velence {
+                background-color: rgb(120, 120, 121);
             }
